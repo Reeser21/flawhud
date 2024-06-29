@@ -25,3 +25,7 @@ setinfo hud_qp_autostart 0		// If set to 1, will automatically start finding a s
 setinfo hud_qp_gamemode 0		// Sets the gamemode. Can be; any, alternative, arena or a string value for special events.
 setinfo hud_qp_noconnect 0		// If set to 1, skips automatically connecting.
 setinfo hud_qp_autoclose 0		// If set to 1, closes after finding a server.
+
+//https://comfig.app/quickplay/?autostart=1 - starts finding a match
+//https://comfig.app/quickplay/?autostart=1&gm=alternative - starts finding a misc categories match 
+//https://comfig.app/quickplay/?gm=arena - visits the quickplay site and selects arena mode 

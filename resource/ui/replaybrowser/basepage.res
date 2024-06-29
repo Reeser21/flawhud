@@ -162,7 +162,7 @@
 			"enabled"						"1"
 			"labelText"						""
 			"command"						"engine toggle hud_qp_autoclose"
-			"actionsignallevel"				"8"
+			"actionsignallevel"				"3"
 			"paintbackground"				"1"
 			"font"							"FontBold12"
 			"textAlignment"					"center"

@@ -119,6 +119,83 @@ Scheme
 				}
 			}
 		}
+
+		GreenBorderThick
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "67 147 136 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "67 147 136 255"
+					"offset" "1 0"
+				}
+				"3"
+				{
+					"color" "67 147 136 255"
+					"offset" "2 0"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color" "67 147 136 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "67 147 136 255"
+					"offset" "1 0"
+				}
+				"3"
+				{
+					"color" "67 147 136 255"
+					"offset" "2 0"
+				}
+			}
+			Top
+			{
+				"1"
+				{
+					"color" "67 147 136 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "67 147 136 255"
+					"offset" "1 0"
+				}
+				"3"
+				{
+					"color" "67 147 136 255"
+					"offset" "2 0"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "67 147 136 255"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "67 147 136 255"
+					"offset" "1 0"
+				}
+				"3"
+				{
+					"color" "67 147 136 255"
+					"offset" "2 0"
+				}
+			}
+		}
 		
 		DarkBorderThick
 		{
